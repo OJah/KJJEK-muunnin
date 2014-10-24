@@ -9,7 +9,7 @@ def menu():
     print("0) Lopeta")
 
 def cF(c):
-    return c * 9 / 5 + 6
+    return c * 9 / 5 + 32   #fixed by ryhmä Valuuttamuunnin
 
 def cK(c):
     return c + 273.15
